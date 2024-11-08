@@ -1,0 +1,36 @@
+#tableauDescriptions {
+    border-collapse: collapse;
+}
+#tableauDescriptions td,
+#tableauDescriptions th {
+    border: 1px solid #000;
+    padding: 8px;
+    text-align: left;
+}
+#tableauDescriptions thead th {
+    background-color: #f2f2f2;
+    color: #333;
+    font-weight: 700;
+}
+button {
+    padding: 5px 10px;
+    margin: 5px;
+    font-size: 0.9rem;
+    cursor: pointer;
+}
+.save-btn {
+    max-width: 7rem;
+    background-color: #4caf50;
+    color: #fff;
+}
+.modify-btn {
+    background-color: rgba(0, 0, 255, 0.808);
+    color: #fff;
+}
+.delete-btn {
+    background-color: #f44336;
+    color: #fff;
+}
+#descriptionForm {
+    margin-top: 1rem;
+}

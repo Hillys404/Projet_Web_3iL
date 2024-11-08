@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<images>
+    <image>
+        <url>IMGViewer/poule_harco.jpg</url>
+        <title>Poule Harco</title>
+    </image>
+    <image>
+        <url>IMGViewer/poule_sussex.jpg</url>
+        <title>Poule Sussex</title>
+    </image>
+    <image>
+        <url>IMGViewer/poule_gauloise_doree.jpg</url>
+        <title>Poule Gauloise Dorée</title>
+    </image>
+    <image>
+        <url>IMGViewer/poule_araucana.jpg</url>
+        <title>Poule Araucana</title>
+    </image>
+</images>

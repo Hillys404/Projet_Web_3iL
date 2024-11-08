@@ -1,0 +1,15 @@
+h1,
+h2,
+h3 {
+    display: flex;
+}
+h1 {
+    align-items: center;
+    font-size: 25px;
+    width: 100%;
+    justify-content: center;
+}
+h2,
+h3 {
+    justify-content: center;
+}

@@ -1,0 +1,68 @@
+#banner,
+#footer,
+#menu,
+.menu-item,
+body {
+    display: flex;
+}
+#banner {
+    justify-content: left;
+    background-color: bisque;
+}
+#menu,
+.burger-menu {
+    background-color: beige;
+}
+figure {
+    margin-right: 0;
+}
+a {
+    text-decoration: none;
+    color: #00f;
+}
+a:hover {
+    color: #ff4500;
+}
+#menu {
+    font-size: 22px;
+}
+.menu-item {
+    width: 50rem;
+    border: 1px solid #000;
+    justify-content: center;
+}
+.burger-menu {
+    display: none;
+    cursor: pointer;
+    font-size: 30px;
+    padding: 10px;
+    color: #000;
+    border: 1px solid;
+}
+#footer {
+    min-height: 60px;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 16px;
+    background-color: #faebd7;
+    align-items: center;
+}
+section {
+    flex: 1;
+    margin: 1rem;
+}
+body {
+    min-height: 100vh;
+    margin: 0;
+    flex-direction: column;
+}
+#contact-footer {
+    text-align: center;
+}
+#contact-footer p {
+    margin: 5px 0;
+}
+#nom {
+    font-weight: 700;
+    font-size: 20px;
+}

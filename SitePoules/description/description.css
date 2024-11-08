@@ -1,0 +1,8 @@
+.item-liste-poules {
+    min-width: 20rem;
+    display: flex;
+}
+.image {
+    height: 100px;
+    width: 100px;
+}
